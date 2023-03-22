@@ -13,6 +13,7 @@ header{
     background-size: cover;
     background-position: center;
     color: white;
+
 }
 
 header h1{
@@ -235,14 +236,53 @@ header p{
 
 
 .gps{
-    width: 35%;
-    height: 400px;
-    background-color: lightgrey;
+    width: 40%;
+    height: 500px;
     margin: 0 auto;
-    margin-top: 5px;
-    border-radius: 5px;
-    margin-bottom: 20px;
-    border-radius: 5px;
+}
+
+.icon1{
+    width: 45%;
+    height: 65px;
+    background-image: url("../assets/social-01.svg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.icon2{
+    width: 45%;
+    height: 65px;
+    background-image: url("../assets/social-02.svg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.icon3{
+    width: 45%;
+    height: 65px;
+    background-image: url("../assets/social-03.svg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.icon4{
+    width: 45%;
+    height: 65px;
+    background-image: url("../assets/social-04.svg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    margin-left: 40px;
+    margin-top: 10px;
 }
 
 footer{
@@ -251,6 +291,6 @@ footer{
     text-align: center;
     background-color: #2b2b2b;
     margin-top: 75px;
-    padding-top: 50px;
+    padding-top: 40px;
     color: #ffffff;
 }
